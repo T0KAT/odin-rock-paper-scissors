@@ -1,2 +1,1 @@
-# odin-rock-paper-scissors
-rep for odin exercise rps
+In this project I will create a fully in the console playable Rock-Paper-Scissors game 
